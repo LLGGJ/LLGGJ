@@ -10,17 +10,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=LLGGJ&style=for-the-badge&color=0066FF&label=PROFILE+VIEWS"/></div>---
 
-<div align="center"><img src="https://img.shields.io/badge/●-ONLINE-00C8FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/●-BUILDING-0066FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/●-ZOUDER-00C8FF?style=for-the-badge&labelColor=050505"/></div>---
+<img src="https://cdn.simpleicons.org/gnubash/00C8FF" width="24"> Sobre mim
 
-<img src="https://cdn.simpleicons.org/gnubash/00C8FF" width="25"> Sobre mim
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=50&pause=1100&color=00C8FF&center=true&vCenter=true&width=900&height=120&multiline=true&repeat=true&lines=%24+whoami;%3E+Diego+Itermann;%3E+Developer+%7C+Founder+%40+Zouder+Applications;%3E+Building+Discord+systems%2C+APIs%2C+web+apps+and+automation." /></div><br>Sou desenvolvedor e fundador da Zouder Applications.
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=50&pause=1100&color=00C8FF&center=true&vCenter=true&width=900&height=120&multiline=true&repeat=true&lines=%24+whoami;%3E+Diego+Itermann;%3E+Developer+%7C+Founder+%40+Zouder+Applications;%3E+Discord+Bots+%7C+APIs+%7C+Web+%7C+Automation" /></div><br>Sou desenvolvedor e fundador da Zouder Applications.
+Meu foco é criar bots para Discord, APIs, aplicações web, dashboards, sistemas de tickets, automações, integrações e infraestrutura.
 
-Trabalho na criação de bots para Discord, APIs REST, aplicações web, dashboards, sistemas de tickets, automações, integrações, bancos de dados e infraestrutura de aplicações.
-
-Gosto de transformar uma ideia em um sistema funcional, testar, melhorar e colocar em produção.
+Gosto de transformar ideias em produtos funcionais, testar novas tecnologias e melhorar continuamente meus projetos.
 
 ┌────────────────────────────────────────────────────────────┐
 │                    DIEGO ITTERMANN                         │
@@ -29,13 +25,10 @@ Gosto de transformar uma ideia em um sistema funcional, testar, melhorar e coloc
 │  Developer                                                 │
 │  Founder @ Zouder Applications                             │
 │                                                            │
-│  Discord Development                                       │
-│  REST APIs                                                 │
-│  Web Applications                                          │
-│  Automation                                                │
-│  Databases                                                 │
-│  Cloud & Deployment                                        │
-│  Integrations                                              │
+│  Discord Bots        REST APIs                             │
+│  Web Applications    Automation                            │
+│  Databases           Cloud                                 │
+│  Integrations        Systems                               │
 │                                                            │
 │  Learn → Build → Test → Improve                            │
 │                                                            │
@@ -43,11 +36,13 @@ Gosto de transformar uma ideia em um sistema funcional, testar, melhorar e coloc
 
 ---
 
-<img src="https://cdn.simpleicons.org/rocket/00C8FF" width="25"> Zouder Applications
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="24"> Zouder Applications
 
 <div align="center"><img src="https://img.shields.io/badge/ZOUDER%20APPLICATIONS-050505?style=for-the-badge&logo=discord&logoColor=00C8FF&color=0066FF"/><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=55&pause=1100&color=00C8FF&center=true&vCenter=true&width=850&lines=Smart+solutions+for+Discord+servers.;Bots.+APIs.+Systems.+Automation.;Building+the+Zouder+ecosystem." /><br>Soluções inteligentes para transformar seu servidor Discord.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=55&pause=1100&color=00C8FF&center=true&vCenter=true&width=850&lines=Smart+solutions+for+Discord+servers.;Bots.+APIs.+Systems.+Automation.;Building+the+Zouder+ecosystem." /><br><br>
+
+Soluções inteligentes para transformar seu servidor Discord.
 
 <br>"Bots" · "APIs" · "Tickets" · "Web" · "Automation" · "Database" · "Cloud"
 
@@ -59,158 +54,101 @@ Gosto de transformar uma ideia em um sistema funcional, testar, melhorar e coloc
 <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/>
 </a></div>---
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="25"> Linguagens
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="24"> Linguagens
 
-<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,html,css,json,bash,java,c,cpp,cs,php,go,rust,kotlin,swift,dart,lua,ruby&perline=10"/></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,html,css,json,bash,java,c,cpp,cs,php,go,rust,kotlin,dart,lua,ruby,swift&perline=10"/></div>---
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="25"> Frontend
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="24"> Frontend
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,vite,vue,angular,astro,svelte,redux,threejs&perline=9"/></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,vite,vue,angular,astro,svelte,redux,threejs,webpack&perline=8"/></div>---
 
-<img src="https://cdn.simpleicons.org/node.js/339933" width="25"> Backend
+<img src="https://cdn.simpleicons.org/node.js/339933" width="24"> Backend
 
-<div align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,spring,graphql,prisma&perline=9"/></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,bun,deno,elysia,graphql,prisma&perline=8"/></div>---
 
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="25"> Discord Development
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="24"> Discord Development
 
 <div align="center"><img src="https://skillicons.dev/icons?i=discordjs&perline=1"/><br><br>
 
-"Slash Commands" · "Buttons" · "Select Menus" · "Modals"
+"Bots" · "Slash Commands" · "Buttons" · "Select Menus"
 
-"Components" · "Permissions" · "Tickets" · "Webhooks"
+"Modals" · "Components" · "Tickets" · "Webhooks"
 
-"Embeds" · "Interactions" · "Moderation" · "Automation"
-
-"OAuth2" · "APIs" · "Integrations" · "Discord Bots"
+"OAuth2" · "Permissions" · "Interactions" · "Automation"
 
 </div>---
 
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="25"> Databases
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="24"> Databases
 
-<div align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase,supabase,dynamodb,oracle&perline=9"/></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase,dynamodb,cassandra,mariadb&perline=10"/></div>---
 
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="25"> Cloud & DevOps
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="24"> Cloud & DevOps
 
-<div align="center"><img src="https://skillicons.dev/icons?i=github,git,vercel,cloudflare,docker,kubernetes,linux,nginx,aws,azure&perline=10"/></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,ubuntu,debian,nginx,vercel,cloudflare,aws,azure,gcp,grafana&perline=8"/></div>---
 
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="25"> APIs & Integrações
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="24"> APIs & Integrações
 
-<div align="center"><img src="https://skillicons.dev/icons?i=postman,graphql,firebase,supabase,cloudflare&perline=5"/><br><br>
+<div align="center"><img src="https://skillicons.dev/icons?i=postman,graphql,cloudflare,firebase,supabase&perline=5"/><br><br>
 
-"REST" · "JSON" · "Webhooks" · "OAuth2" · "API Keys"
+"REST APIs" · "JSON" · "API Keys" · "OAuth2"
 
-"Authentication" · "Rate Limiting" · "Integrations" · "External APIs"
+"Webhooks" · "Authentication" · "Rate Limiting"
+
+"External APIs" · "Integrations" · "Backend Services"
 
 </div>---
 
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="25"> IA & Automação
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="24"> IA & Automação
 
 <div align="center"><img src="https://skillicons.dev/icons?i=python,nodejs&perline=2"/><br><br>
 
-"AI APIs" · "LLM Integrations" · "Prompt Systems"
+"AI APIs" · "LLM Integrations" · "Automation"
 
-"Automation" · "Bots" · "Webhooks" · "Scheduled Tasks"
-
-</div>---
-
-<img src="https://cdn.simpleicons.org/gnubash/00C8FF" width="25"> Terminal & Sistemas
-
-<div align="center"><img src="https://skillicons.dev/icons?i=linux,bash,powershell,ubuntu,debian&perline=5"/></div>---
-
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="25"> Ferramentas
-
-<div align="center"><img src="https://skillicons.dev/icons?i=vscode,git,github,npm,pnpm,yarn,postman,figma,notion&perline=9"/></div>---
-
-<img src="https://cdn.simpleicons.org/github/00C8FF" width="25"> O que eu construo
-
-<div align="center">┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  DISCORD                                                     │
-│  ├── Bots                                                     │
-│  ├── Ticket Systems                                           │
-│  ├── Moderation                                               │
-│  ├── Components                                               │
-│  ├── Permissions                                              │
-│  └── Automation                                               │
-│                                                              │
-│  BACKEND                                                      │
-│  ├── REST APIs                                                │
-│  ├── Authentication                                           │
-│  ├── API Keys                                                 │
-│  ├── Webhooks                                                 │
-│  ├── Integrations                                             │
-│  └── Business Logic                                           │
-│                                                              │
-│  WEB                                                          │
-│  ├── Dashboards                                               │
-│  ├── Landing Pages                                            │
-│  ├── Developer Portals                                        │
-│  └── Web Applications                                         │
-│                                                              │
-│  INFRASTRUCTURE                                               │
-│  ├── Git / GitHub                                              │
-│  ├── Vercel                                                   │
-│  ├── Cloudflare                                               │
-│  ├── Linux                                                     │
-│  └── Deployment                                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+"Bots" · "Webhooks" · "Scheduled Tasks" · "AI Systems"
 
 </div>---
 
-<img src="https://cdn.simpleicons.org/github/00C8FF" width="25"> Projetos
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="24"> Ferramentas
+
+<div align="center"><img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,npm,pnpm,yarn,bun,postman,figma,notion,vercel&perline=8"/></div>---
+
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="24"> Sistemas
+
+<div align="center"><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,bash,powershell&perline=6"/></div>---
+
+<img src="https://cdn.simpleicons.org/github/00C8FF" width="24"> Projetos
 
 <div align="center">Zouder Tickets
 
 Sistema profissional de tickets para Discord.
 
-"Next.js" · "Discord.js" · "APIs" · "Database"
+"Next.js" · "Discord.js" · "REST API" · "Database"
 
-<a href="https://zouder-tickets.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-0066FF?style=for-the-badge"/>
+<br><a href="https://zouder-tickets.vercel.app/">
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-0066FF?style=for-the-badge"/>
 </a><br><br>
 
 Zouder Applications
 
 Ecossistema de soluções para servidores Discord.
 
-<a href="https://zouder-applications.ai.studio/">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-00C8FF?style=for-the-badge"/>
+<br><a href="https://zouder-applications.ai.studio/">
+<img src="https://img.shields.io/badge/CONHECER%20ZOUDER-00C8FF?style=for-the-badge"/>
 </a></div>---
 
-<img src="https://cdn.simpleicons.org/gnubash/00C8FF" width="25"> Zouder Terminal
+<img src="https://cdn.simpleicons.org/gnubash/00C8FF" width="24"> Zouder Terminal
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=35&pause=700&color=00C8FF&background=050505&center=true&vCenter=true&width=900&height=450&multiline=true&repeat=true&lines=%5Bdiego%40zouder%5D+%7E%24+whoami;%3E+Diego+Itermann;%3E+Developer;%3E+Founder+%40+Zouder+Applications;%5Bdiego%40zouder%5D+%7E%24+ls+-la;%3E+discord-bots%2F;%3E+apis%2F;%3E+web-apps%2F;%3E+automation%2F;%3E+databases%2F;%5Bdiego%40zouder%5D+%7E%24+npm+run+start;%3E+Starting+Zouder+Applications...;%3E+Loading+modules...;%3E+Connecting+services...;%3E+Initializing+systems...;%5B%E2%9C%93%5D+Discord+Systems+........+ONLINE;%5B%E2%9C%93%5D+REST+APIs+..............+ONLINE;%5B%E2%9C%93%5D+Database+...............+CONNECTED;%5B%E2%9C%93%5D+Automation+.............+ACTIVE;%5B%E2%9C%93%5D+Cloud+..................+ONLINE;%5B%E2%9C%93%5D+Zouder+Applications+....+RUNNING;%5Bdiego%40zouder%5D+%7E%24+echo+%22STATUS%3A+READY%22;%3E+STATUS%3A+READY;%5Bdiego%40zouder%5D+%7E%24+_%22"/></div>---
 
-<img src="https://cdn.simpleicons.org/github/00C8FF" width="25"> GitHub Analytics
-
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=LLGGJ&show_icons=true&hide_border=true&bg_color=050505&title_color=00C8FF&icon_color=0066FF&text_color=FFFFFF&include_all_commits=true&count_private=true"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLGGJ&layout=compact&hide_border=true&bg_color=050505&title_color=00C8FF&text_color=FFFFFF&langs_count=12"/></div>---
-
-<img src="https://cdn.simpleicons.org/github/00C8FF" width="25"> GitHub Streak
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=LLGGJ&theme=dark&hide_border=true&background=050505&ring=0066FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=00C8FF"/></div>---
-
-<img src="https://cdn.simpleicons.org/github/00C8FF" width="25"> Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=LLGGJ&bg_color=050505&color=00C8FF&line=0066FF&point=00C8FF&area=true&hide_border=true"/></div>---
-
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="25"> Conecte-se
-
 <div align="center"><a href="https://github.com/LLGGJ">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>    
-
-<a href="https://discord.gg/zouderapplications">
-<img src="https://skillicons.dev/icons?i=discord" width="55"/>
-</a>    
-
-<a href="https://zouder-applications.ai.studio/">
-<img src="https://skillicons.dev/icons?i=googlechrome" width="55"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB-050505?style=for-the-badge&logo=github&logoColor=00C8FF"/>
+</a><a href="https://discord.gg/zouderapplications">
+<img src="https://img.shields.io/badge/JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/>
 </a><br><br>
 
 <img src="https://img.shields.io/badge/BUILD-0066FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CREATE-00C8FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AUTOMATE-0066FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EVOLVE-00C8FF?style=for-the-badge"/></div>---
+<img src="https://img.shields.io/badge/EVOLVE-00C8FF?style=for-the-badge"/><br><br>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:0066FF,100:020617&height=130&section=footer"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:0066FF,100:020617&height=130&section=footer"/></div>
